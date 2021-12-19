@@ -1,6 +1,8 @@
 // Write your helper functions here!
 require('isomorphic-fetch');
 
+
+
 function addDestinationInfo(document, name, diameter, star, distance, moons, imageUrl) {
    // Here is the HTML formatting for our mission target div.
    /*
@@ -16,9 +18,14 @@ function addDestinationInfo(document, name, diameter, star, distance, moons, ima
    */
 }
 
+     
 function validateInput(testInput) {
-   
+    
+ 
 }
+
+
+
 
 function formSubmission(document, list, pilot, copilot, fuelLevel, cargoLevel) {
    
